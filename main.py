@@ -1,2 +1,2 @@
 a = int(input("Inserisci un numero --> "))
-print("Il doppio di {} è {}".format(a, a*2))
+print("Il triplo di {} è {}".format(a, a*3))

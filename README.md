@@ -1,1 +1,1 @@
-_In questo progetto il file **.py** prende in input un numero e ne restituisce il doppio_
+_In questo progetto il file **.py** prende in input un numero e ne restituisce il triplo_
